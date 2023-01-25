@@ -1,0 +1,54 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultBatchTarget
+  Version="1"
+  Comment="New Batch Target">
+  <Targets>
+    <Target
+      Icon="System.Drawing.Bitmap"
+      Name="Clean"
+      Type="Clean XHTML"
+      Build="true" />
+    <Target
+      Icon="System.Drawing.Bitmap"
+      Name="Eclipse"
+      Type="Eclipse Help"
+      Build="true" />
+    <Target
+      Icon="System.Drawing.Bitmap"
+      Name="Epub"
+      Type="EPUB"
+      Build="true"
+      LastBuilt="2022-03-25T10:23:15.0011752-07:00" />
+    <Target
+      Icon="System.Drawing.Bitmap"
+      Name="HTML Help"
+      Type="HTML Help"
+      Build="true" />
+    <Target
+      Icon="System.Drawing.Bitmap"
+      Name="HTML5"
+      Type="HTML5"
+      Build="true"
+      LastBuilt="2022-03-24T13:39:36.3079603-07:00" />
+    <Target
+      Icon="System.Drawing.Bitmap"
+      Name="PDF"
+      Type="PDF"
+      Build="true" />
+    <Target
+      Icon="System.Drawing.Bitmap"
+      Name="SideNav"
+      Type="HTML5"
+      Build="true" />
+    <Target
+      Icon="System.Drawing.Bitmap"
+      Name="Tri-pane"
+      Type="HTML5"
+      Build="true" />
+    <Target
+      Icon="System.Drawing.Bitmap"
+      Name="Word"
+      Type="Word"
+      Build="true" />
+  </Targets>
+</CatapultBatchTarget>

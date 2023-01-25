@@ -1,0 +1,4 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultSkin Version="2" SkinType="Component" Comment="省略表示モード付きの、マイクロコンテンツ コンポーネントのスキン。このスキンはナレッジ プロキシにデフォルトで使用されますが、FAQ プロキシおよびプロモーション プロキシにも使用できます。" ComponentType="MicroContent" EnableResponsiveOutput="True">
+    <MicroContentOptions ViewMode="Truncated" />
+</CatapultSkin>

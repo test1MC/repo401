@@ -1,0 +1,72 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<MicroContentSet Comment="Default micro content set." MadCap:isSortedByPhrase="True" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd">
+    <Properties>
+        <MetaTagList>
+            <meta name="No meta data" content="" />
+            <meta name="Promotional" content="Andromeda,M31,Pinwheel,M101" MadCap:metaTagSet="Meta Tag Sets/NewMetaTagSet.flmeta" />
+        </MetaTagList>
+    </Properties>
+    <MicroContent id="metal-prints">
+        <MicroContentPhrase>Metal Prints</MicroContentPhrase>
+        <MicroContentResponse>
+            <xhtml:html xmlns:xhtml="http://www.w3.org/1999/xhtml">
+                <xhtml:body>
+                    <xhtml:p>High quality Astronomy inspired Metal Prints by independent artists and designers from around the world. Available in both High Gloss and Satin, ...</xhtml:p>
+                </xhtml:body>
+            </xhtml:html>
+        </MicroContentResponse>
+    </MicroContent>
+    <MicroContent id="pinwheel-galaxy">
+        <Properties>
+            <MetaTagList>
+                <meta name="Promotional" content="M101" MadCap:metaTagSet="Meta Tag Sets/NewMetaTagSet.flmeta" />
+                <meta name="Knowledge enum" content="Fun facts about the Pinwheel Galaxy AKA M101" MadCap:metaTagSet="Meta Tag Sets/NewMetaTagSet.flmeta" />
+                <meta name="Promotional" content="M101,Pinwheel" MadCap:metaTagSet="Meta Tag Sets/NewMetaTagSets.flmeta" />
+            </MetaTagList>
+        </Properties>
+        <MicroContentPhrase>Pinwheel</MicroContentPhrase>
+        <MicroContentPhrase>M101</MicroContentPhrase>
+        <MicroContentResponse>
+            <xhtml:html xmlns:xhtml="http://www.w3.org/1999/xhtml">
+                <xhtml:body>
+                    <xhtml:p><xhtml:a xhtml:href="../../Promotions/Metal Prints.htm">Promo: Come check out our high quality metal prints</xhtml:a>
+                    </xhtml:p>
+                </xhtml:body>
+            </xhtml:html>
+        </MicroContentResponse>
+    </MicroContent>
+    <MicroContent id="template-promotions">
+        <Properties>
+            <MetaTagList>
+                <meta name="Promotional" content="Template" MadCap:metaTagSet="Meta Tag Sets/NewMetaTagSet.flmeta" />
+            </MetaTagList>
+        </Properties>
+        <MicroContentPhrase>Template promotions</MicroContentPhrase>
+        <MicroContentResponse>
+            <xhtml:html xmlns:xhtml="http://www.w3.org/1999/xhtml">
+                <xhtml:body>
+                    <xhtml:p><xhtml:a xhtml:href="../../Promotions/Metal Prints.htm">Promo: Come check out our high quality metal prints</xhtml:a>
+                    </xhtml:p>
+                </xhtml:body>
+            </xhtml:html>
+        </MicroContentResponse>
+    </MicroContent>
+    <MicroContent id="andromeda-galaxy">
+        <Properties>
+            <MetaTagList>
+                <meta name="Promotional" content="Andromeda" MadCap:metaTagSet="Meta Tag Sets/NewMetaTagSet.flmeta" />
+                <meta name="Knowledge enum" content="Fun facts about Andromeda" MadCap:metaTagSet="Meta Tag Sets/NewMetaTagSet.flmeta" />
+            </MetaTagList>
+        </Properties>
+        <MicroContentPhrase>Andromeda</MicroContentPhrase>
+        <MicroContentPhrase>M31</MicroContentPhrase>
+        <MicroContentResponse>
+            <xhtml:html xmlns:xhtml="http://www.w3.org/1999/xhtml">
+                <xhtml:body>
+                    <xhtml:p><xhtml:a xhtml:href="../../Promotions/Metal Prints.htm">Promo: Come check out our high quality metal prints</xhtml:a>
+                    </xhtml:p>
+                </xhtml:body>
+            </xhtml:html>
+        </MicroContentResponse>
+    </MicroContent>
+</MicroContentSet>

@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultSkin
+  Version="6"
+  SkinType="Component"
+  Comment="Habillage du composant du micro contenu avec mode d'affichage texte brut. Cet habillage est utilisé pour les proxys de promotion, mais il peut également être utilisé pour les proxys de FAQ et de connaissances."
+  ComponentType="MicroContent"
+  EnableResponsiveOutput="True">
+  <MicroContentOptions
+    ViewMode="PlainText" />
+  <Stylesheet>
+    <Styles>
+      <Style
+        Name="Proxy Title">
+        <Properties>
+          <Property
+            Name="BackgroundColor">#708090</Property>
+          <Property
+            Name="Color">#00fa9a</Property>
+        </Properties>
+      </Style>
+    </Styles>
+  </Stylesheet>
+  <Strings />
+</CatapultSkin>

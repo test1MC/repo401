@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultTarget
+  Version="2"
+  Comment="New Target"
+  Type="WebHelp2"
+  Destinations=""
+  ShowMadCapBacklink="true"
+  GlossaryTermConversion="marked"
+  Skin="/Project/Skins/Side Nav skin1.flskn"
+  MasterPage="/Content/Resources/PageLayouts/Template page.flmsp">
+  <PrintedOutput
+    CollapseMargins="true"
+    GenerateTOCProxy="true"
+    GenerateIndexProxy="true"
+    GenerateGlossaryProxy="true"
+    OutputFormat="docx" />
+  <PDF
+    Tagged="true"
+    TitleBar="DocumentTitle" />
+  <MicroContentSearch>
+    <FeaturedSnippets
+      type="Empty"
+      numberOfResults="5">
+      <microContentSubset />
+    </FeaturedSnippets>
+    <KnowledgePanel
+      type="SelectedFiles"
+      numberOfResults="3">
+      <microContentSubset>
+        <file
+          link="/Content/Resources/MicroContent/KnowledgeMC.flmco" />
+      </microContentSubset>
+    </KnowledgePanel>
+  </MicroContentSearch>
+</CatapultTarget>

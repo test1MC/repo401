@@ -1,0 +1,52 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultSkin
+  Version="5"
+  SkinType="Component"
+  Comment="Micro Content skin"
+  ComponentType="MicroContent"
+  EnableResponsiveOutput="True"
+  EnablePrintableOutput="True">
+  <Stylesheet>
+    <Styles>
+      <Style
+        Name="Proxy Title">
+        <Properties>
+          <Property
+            Name="FontFamily">Californian FB</Property>
+          <Property
+            Name="Display">block</Property>
+          <Property
+            Name="Color">#ff8c00</Property>
+        </Properties>
+      </Style>
+      <Style
+        Name="Panel">
+        <Properties>
+          <Property
+            Name="Color">#ffffff</Property>
+          <Property
+            Name="BackgroundColor">#ff0000</Property>
+        </Properties>
+      </Style>
+      <Style
+        Name="Response">
+        <Properties>
+          <Property
+            Name="Color">#f5f5f5</Property>
+        </Properties>
+      </Style>
+      <Style
+        Name="Phrase">
+        <Properties>
+          <Property
+            Name="Display">block</Property>
+          <Property
+            Name="Color">#696969</Property>
+        </Properties>
+      </Style>
+    </Styles>
+  </Stylesheet>
+  <Strings />
+  <MicroContentOptions
+    ViewMode="DropDown" />
+</CatapultSkin>

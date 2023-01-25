@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultSkin
+  Version="6"
+  SkinType="Component"
+  Comment="Mikroinhalt-Komponenten-Skin mit Anzeigemodus &quot;Klartext&quot;. Diese Skin wird standardmäßig für Promotion-Proxys verwendet, kann aber auch für FAQ- und Knowledge-Proxys verwendet werden."
+  ComponentType="MicroContent"
+  EnableResponsiveOutput="True">
+  <MicroContentOptions
+    ViewMode="PlainText" />
+  <Stylesheet>
+    <Styles>
+      <Style
+        Name="Proxy Title">
+        <Properties>
+          <Property
+            Name="BackgroundColor">#98fb98</Property>
+          <Property
+            Name="Color">#0000cd</Property>
+        </Properties>
+      </Style>
+    </Styles>
+  </Stylesheet>
+  <Strings />
+</CatapultSkin>

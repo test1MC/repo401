@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultSkin Version="2" 
+  SkinType="Component" 
+  Comment="Micro Content Component skin with Plain Text view mode. This skin is used for Promotion proxies by default, but it can also be used for FAQ and Knowledge proxies."
+  ComponentType="MicroContent"
+  EnableResponsiveOutput="True">
+  <MicroContentOptions ViewMode="PlainText" />
+</CatapultSkin>

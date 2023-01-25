@@ -1,0 +1,59 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<MicroContentSet Comment="Default micro content set." MadCap:isSortedByPhrase="True" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd">
+    <Properties>
+        <MetaTagList>
+            <meta name="Knowledge enum" content="Fun facts about Andromeda,Fun facts about the Pinwheel Galaxy AKA M101" MadCap:metaTagSet="Meta Tag Sets/NewMetaTagSet.flmeta" />
+        </MetaTagList>
+    </Properties>
+    <MicroContent id="andromeda-galaxy">
+        <Properties>
+            <MetaTagList>
+                <meta name="Knowledge enum" content="Fun facts about Andromeda" MadCap:metaTagSet="Meta Tag Sets/NewMetaTagSet.flmeta" />
+                <meta name="Knowledge enum" content="Fun facts about Andromeda" MadCap:metaTagSet="Meta Tag Sets/NewMetaTagSets.flmeta" />
+            </MetaTagList>
+        </Properties>
+        <MicroContentPhrase>Fun Facts about Andromeda</MicroContentPhrase>
+        <MicroContentPhrase>Fun facts about M31</MicroContentPhrase>
+        <MicroContentResponse>
+            <xhtml:html xmlns:xhtml="http://www.w3.org/1999/xhtml">
+                <xhtml:body>
+                    <xhtml:p>Andromeda Galaxy, also called Andromeda Nebula, (catalog numbers NGC 224 and M31), great spiral galaxy in the constellation Andromeda, the nearest large galaxy. The Andromeda Galaxy is one of the few visible to the unaided eye, appearing as a milky blur.</xhtml:p>
+                </xhtml:body>
+            </xhtml:html>
+        </MicroContentResponse>
+    </MicroContent>
+    <MicroContent id="m101">
+        <Properties>
+            <MetaTagList>
+                <meta name="Promotional" content="" MadCap:metaTagSet="Meta Tag Sets/NewMetaTagSet.flmeta" />
+                <meta name="Knowledge enum" content="Fun facts about the Pinwheel Galaxy AKA M101" MadCap:metaTagSet="Meta Tag Sets/NewMetaTagSet.flmeta" />
+                <meta name="Knowledge enum" content="Fun facts about the Pinwheel Galaxy AKA M101" MadCap:metaTagSet="Meta Tag Sets/NewMetaTagSets.flmeta" />
+            </MetaTagList>
+        </Properties>
+        <MicroContentPhrase>Fun facts about the Pinwheel Galaxy AKA M101</MicroContentPhrase>
+        <MicroContentPhrase>Fun facts about M101</MicroContentPhrase>
+        <MicroContentResponse>
+            <xhtml:html xmlns:xhtml="http://www.w3.org/1999/xhtml">
+                <xhtml:body>
+                    <xhtml:p>Messier 101 can be located with your telescope by star-hopping from the bright star, Alkaid, in the handle of the Big Dipper. The Hubble telescope has captured this spiral galaxy in Ursa Major in great detail. Using modest astrophotography equipment, we can photograph this incredible deep sky object from our own backyards.</xhtml:p>
+                </xhtml:body>
+            </xhtml:html>
+        </MicroContentResponse>
+    </MicroContent>
+    <MicroContent id="fun-facts-about-template-pages">
+        <Properties>
+            <MetaTagList>
+                <meta name="Knowledge enum" content="Fun facts about Template pages" MadCap:metaTagSet="Meta Tag Sets/NewMetaTagSet.flmeta" />
+                <meta name="Knowledge enum" content="Fun facts about Template pages" MadCap:metaTagSet="Meta Tag Sets/NewMetaTagSets.flmeta" />
+            </MetaTagList>
+        </Properties>
+        <MicroContentPhrase>Fun facts about Template pages</MicroContentPhrase>
+        <MicroContentResponse>
+            <xhtml:html xmlns:xhtml="http://www.w3.org/1999/xhtml">
+                <xhtml:body>
+                    <xhtml:p>A template page lets you automatically apply certain content—such as breadcrumbs, menus, toolbars, search bars, mini-TOCs, or footer text—to multiple topics in the output. A template page is primarily used in online outputs, but it can be used in Word output as well. For Word output, a template page lets you determine page specifications (such as size or orientation) and to apply certain content (e.g., header text or page numbers) to many topics in a manual. For print-based outputs other than Word, page layouts are used instead of template pages.</xhtml:p>
+                </xhtml:body>
+            </xhtml:html>
+        </MicroContentResponse>
+    </MicroContent>
+</MicroContentSet>

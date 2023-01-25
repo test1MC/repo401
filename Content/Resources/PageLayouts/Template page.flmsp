@@ -1,0 +1,98 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd">
+    <head>
+    </head>
+    <body>
+        <MadCap:bodyProxy />
+        <p>&#160;</p>
+        <h1 style="color: #ff0000;">From the Template page</h1>
+        <h3>Using query: Topic Title (Go to actual topic to see results)</h3>
+        <MadCap:promotionProxy MadCap:allowMicroContentStylesheets="false" MadCap:queryType="TopicTitle" MadCap:title="Save now. All prints are 50% off! (Styles set in promoskin)" data-mc-skin="/Project/Skins/PromoSkin.flskn">
+            <MadCap:filter MadCap:type="SelectedFiles" MadCap:numberOfResults="2">
+                <MadCap:microContentSubset>
+                    <MadCap:file MadCap:link="../MicroContent/PromoMC.flmco" />
+                </MadCap:microContentSubset>
+            </MadCap:filter>
+        </MadCap:promotionProxy>
+        <MadCap:knowledgeProxy MadCap:allowMicroContentStylesheets="false" MadCap:queryType="TopicTitle" MadCap:title="Knowledge Proxy">
+            <MadCap:filter MadCap:type="SelectedFiles" MadCap:numberOfResults="1">
+                <MadCap:microContentSubset>
+                    <MadCap:file MadCap:link="../MicroContent/KnowledgeMC.flmco" />
+                </MadCap:microContentSubset>
+            </MadCap:filter>
+        </MadCap:knowledgeProxy>
+        <h3>Using query: Meta tag value</h3>
+        <p>Promo</p>
+        <MadCap:promotionProxy MadCap:allowMicroContentStylesheets="false" MadCap:queryType="MetaTagValue" MadCap:querySource="Promotional">
+            <MadCap:filter MadCap:type="AllFiles" MadCap:numberOfResults="1">
+                <MadCap:microContentSubset />
+            </MadCap:filter>
+        </MadCap:promotionProxy>
+        <p>Knowledge</p>
+        <MadCap:knowledgeProxy data-mc-skin="/Project/Skins/Knowledge.flskn" data-mc-allow-microContent-stylesheets="false" data-mc-query-type="MetaTagValue" data-mc-title="Knowledge proxy using meta tag value" data-mc-query-source="Knowledge enum" MadCap:allowMicroContentStylesheets="false" MadCap:queryType="MetaTagValue" MadCap:querySource="Knowledge enum">
+            <MadCap:filter MadCap:type="AllFiles" MadCap:numberOfResults="3">
+                <MadCap:microContentSubset />
+            </MadCap:filter>
+        </MadCap:knowledgeProxy>
+        <h3>Using query: Using static string</h3>
+        <MadCap:promotionProxy data-mc-title="Promo proxy using static string" data-mc-skin="/Project/Skins/PromoSkin.flskn" data-mc-allow-microContent-stylesheets="false" data-mc-query-type="StaticString" data-mc-query-source="Galaxy" MadCap:allowMicroContentStylesheets="false" MadCap:queryType="StaticString" MadCap:querySource="Andromeda">
+            <MadCap:filter MadCap:type="AllFiles" MadCap:numberOfResults="1">
+                <MadCap:microContentSubset />
+            </MadCap:filter>
+        </MadCap:promotionProxy>
+        <MadCap:knowledgeProxy data-mc-title="Knowledge proxy using static string" data-mc-skin="/Project/Skins/KnowledgeSkin.flskn" data-mc-allow-microContent-stylesheets="false" data-mc-query-type="StaticString" data-mc-query-source="Fun facts" MadCap:allowMicroContentStylesheets="false" MadCap:queryType="StaticString" MadCap:querySource="Andromeda">
+            <MadCap:filter MadCap:type="AllFiles" MadCap:numberOfResults="1">
+                <MadCap:microContentSubset />
+            </MadCap:filter>
+        </MadCap:knowledgeProxy>
+        <h3>Using query: Search (Search for "Andromeda" "Pinwheel" and you will see the results on the search results page)</h3>
+        <MadCap:promotionProxy data-mc-title="Promo proxy in a template page" data-mc-skin="/Project/Skins/PromoSkin.flskn" data-mc-allow-microContent-stylesheets="false" data-mc-query-type="SearchQuery" MadCap:allowMicroContentStylesheets="false" MadCap:queryType="SearchQuery">
+            <MadCap:filter MadCap:type="AllFiles" MadCap:numberOfResults="2">
+                <MadCap:microContentSubset />
+            </MadCap:filter>
+        </MadCap:promotionProxy>
+        <MadCap:knowledgeProxy data-mc-title="Knowledge proxy in a template page" data-mc-allow-microContent-stylesheets="false" data-mc-query-type="SearchQuery" data-mc-skin="/Project/Skins/KnowledgeSkin.flskn" MadCap:allowMicroContentStylesheets="false" MadCap:queryType="SearchQuery">
+            <MadCap:filter MadCap:type="AllFiles" MadCap:numberOfResults="2">
+                <MadCap:microContentSubset />
+            </MadCap:filter>
+        </MadCap:knowledgeProxy>
+        <p>&#160;</p>
+        <p>German</p>
+        <MadCap:faqProxy MadCap:title="German FAQ" data-mc-skin="/Project/Skins/grerman_faq.flskn" MadCap:allowMicroContentStylesheets="false" MadCap:queryType="NotSet" MadCap:sortAlphabetically="false" MadCap:generateStructuredData="false">
+            <MadCap:filter MadCap:type="AllFiles" MadCap:numberOfResults="1">
+                <MadCap:microContentSubset />
+            </MadCap:filter>
+        </MadCap:faqProxy>
+        <p>&#160;</p>
+        <MadCap:knowledgeProxy MadCap:title="Gernam Knowledge" MadCap:allowMicroContentStylesheets="false" MadCap:queryType="MetaTagValue" MadCap:querySource="Knowledge enum">
+            <MadCap:filter MadCap:type="AllFiles" MadCap:numberOfResults="1">
+                <MadCap:microContentSubset />
+            </MadCap:filter>
+        </MadCap:knowledgeProxy>
+        <p>&#160;</p>
+        <MadCap:promotionProxy MadCap:title="German Promo" data-mc-skin="/Project/Skins/grerman_Promo.flskn" MadCap:allowMicroContentStylesheets="false" MadCap:queryType="MetaTagValue" MadCap:querySource="Promotional">
+            <MadCap:filter MadCap:type="AllFiles" MadCap:numberOfResults="1">
+                <MadCap:microContentSubset />
+            </MadCap:filter>
+        </MadCap:promotionProxy>
+        <p>French</p>
+        <p>&#160;</p>
+        <p>&#160;</p>
+        <p>&#160;</p>
+        <p>&#160;</p>
+        <p>&#160;</p>
+        <p>Japanese</p>
+        <p>&#160;</p>
+        <p>&#160;</p>
+        <p>&#160;</p>
+        <p>&#160;</p>
+        <p>&#160;</p>
+        <p>Chinese</p>
+        <p>&#160;</p>
+        <p>&#160;</p>
+        <p>&#160;</p>
+        <p>&#160;</p>
+        <p>&#160;</p>
+        <p>&#160;</p>
+    </body>
+</html>

@@ -1,0 +1,4 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultSkin Version="2" SkinType="Component" Comment="Mikroinhalt-Komponenten-Skin mit Anzeigemodus &quot;Dropdown&quot;. Diese Skin wird standardmäßig für FAQ-Proxys verwendet, kann aber auch für Knowledge- und Promotion-Proxys verwendet werden." ComponentType="MicroContent" EnableResponsiveOutput="True">
+    <MicroContentOptions ViewMode="DropDown" />
+</CatapultSkin>

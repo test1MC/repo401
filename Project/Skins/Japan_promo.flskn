@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultSkin
+  Version="6"
+  SkinType="Component"
+  Comment="プレーン表示モード付きの、マイクロコンテンツ コンポーネントのスキン。このスキンはプロモーション プロキシにデフォルトで使用されますが、FAQ プロキシおよびナレッジ プロキシにも使用できます。"
+  ComponentType="MicroContent"
+  EnableResponsiveOutput="True">
+  <MicroContentOptions
+    ViewMode="PlainText" />
+  <Stylesheet>
+    <Styles>
+      <Style
+        Name="Proxy Title">
+        <Properties>
+          <Property
+            Name="BackgroundColor">#000000</Property>
+          <Property
+            Name="Color">#ff8c00</Property>
+        </Properties>
+      </Style>
+    </Styles>
+  </Stylesheet>
+  <Strings />
+</CatapultSkin>

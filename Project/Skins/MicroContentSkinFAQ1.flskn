@@ -1,0 +1,37 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultSkin
+  Version="5"
+  SkinType="Component"
+  Comment="Micro Content skin"
+  ComponentType="MicroContent"
+  EnableResponsiveOutput="True"
+  EnablePrintableOutput="True">
+  <Stylesheet>
+    <Styles>
+      <Style
+        Name="Panel">
+        <Properties>
+          <Property
+            Name="Color">#ffa500</Property>
+        </Properties>
+      </Style>
+      <Style
+        Name="Proxy Title">
+        <Properties>
+          <Property
+            Name="Color">#000000</Property>
+        </Properties>
+      </Style>
+      <Style
+        Name="Phrase">
+        <Properties>
+          <Property
+            Name="Color">#0000ff</Property>
+        </Properties>
+      </Style>
+    </Styles>
+  </Stylesheet>
+  <Strings />
+  <MicroContentOptions
+    ViewMode="PlainText" />
+</CatapultSkin>

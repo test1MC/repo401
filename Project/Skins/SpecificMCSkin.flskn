@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultSkin
+  Version="5"
+  SkinType="Component"
+  Comment="Micro Content skin"
+  ComponentType="MicroContent"
+  EnableResponsiveOutput="True"
+  EnablePrintableOutput="True">
+  <Stylesheet />
+  <MicroContentOptions
+    ViewMode="PlainText" />
+  <Strings />
+</CatapultSkin>

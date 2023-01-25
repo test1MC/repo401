@@ -1,0 +1,67 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultSkin
+  Version="5"
+  SkinType="WebHelp2"
+  Comment="HTML5 Default Tripane skin"
+  Anchors="Width,Height"
+  Width="800"
+  Height="600"
+  Top="0"
+  Left="0"
+  Bottom="0"
+  Right="0"
+  Tabs="TOC,Index,Community"
+  DefaultTab="TOC"
+  UseBrowserDefaultSize="True"
+  UseDefaultBrowserSetup="True"
+  EnableResponsiveOutput="True"
+  AutoSyncTOC="true">
+  <Stylesheet>
+    <Styles>
+      <Style
+        Name="Knowledge Panel">
+        <Properties>
+          <Property
+            Name="KnowledgePanelPosition">left</Property>
+        </Properties>
+      </Style>
+      <Style
+        Name="Knowledge Panel Result">
+        <Properties>
+          <Property
+            Name="BackgroundColor">#000000</Property>
+        </Properties>
+      </Style>
+      <Style
+        Name="Knowledge Panel Phrase">
+        <Properties>
+          <Property
+            Name="Color">#f5f5f5</Property>
+        </Properties>
+      </Style>
+      <Style
+        Name="Knowledge Panel Response">
+        <Properties>
+          <Property
+            Name="Color">#ffa500</Property>
+          <Property
+            Name="FontFamily">Algerian</Property>
+          <Property
+            Name="FontSize">5px</Property>
+        </Properties>
+      </Style>
+      <Medium
+        Name="Mobile">
+        <Style
+          Name="Knowledge Panel">
+          <Properties>
+            <Property
+              Name="KnowledgePanelPosition">right</Property>
+          </Properties>
+        </Style>
+      </Medium>
+    </Styles>
+    <Stylesheet></Stylesheet>
+  </Stylesheet>
+  <Strings />
+</CatapultSkin>

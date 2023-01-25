@@ -1,0 +1,94 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<MicroContentSet Comment="Default micro content set." MadCap:isSortedByPhrase="True" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd">
+    <MicroContent id="andromeda">
+        <Properties>
+            <MetaTagList>
+                <meta name="Promotional" content="Andromeda" MadCap:metaTagSet="Meta Tag Sets/NewMetaTagSet.flmeta" />
+                <meta name="Knowledge enum" content="Fun facts about Andromeda" MadCap:metaTagSet="Meta Tag Sets/NewMetaTagSet.flmeta" />
+            </MetaTagList>
+        </Properties>
+        <MicroContentPhrase>Andromeda</MicroContentPhrase>
+        <MicroContentResponse>
+            <xhtml:html xmlns:xhtml="http://www.w3.org/1999/xhtml">
+                <xhtml:body>
+                    <xhtml:p>Messier 31 (M31), better known as the Andromeda Galaxy, is a large spiral galaxy located in the constellation Andromeda. Lying at a distance of 2.54 million light years from Earth, the Andromeda Galaxy is the nearest major galaxy to our own. It is on a collision course with our home galaxy, the Milky Way. Messier 31 has an apparent magnitude of 3.44. Its designation in the New General Catalogue is NGC 224.</xhtml:p>
+                    <xhtml:p>&#160;</xhtml:p>
+                    <xhtml:p>
+                        <xhtml:img xhtml:src="../Images/Messier-31-1024x673.jpg" xhtml:style="width: 393px;height: 257px;" />
+                    </xhtml:p>
+                </xhtml:body>
+            </xhtml:html>
+        </MicroContentResponse>
+    </MicroContent>
+    <MicroContent id="leo-triplet">
+        <Properties>
+            <MetaTagList>
+                <meta name="Promotional" content="" MadCap:metaTagSet="Meta Tag Sets/NewMetaTagSet.flmeta" />
+                <meta name="General FAQ" content="Leo Triplet" MadCap:metaTagSet="Meta Tag Sets/NewMetaTagSet.flmeta" />
+                <meta name="General FAQ" content="Leo Triplet" MadCap:metaTagSet="Meta Tag Sets/NewMetaTagSets.flmeta" />
+            </MetaTagList>
+        </Properties>
+        <MicroContentPhrase>Leo Triplet</MicroContentPhrase>
+        <MicroContentPhrase>Leo trio</MicroContentPhrase>
+        <MicroContentResponse>
+            <xhtml:html xmlns:xhtml="http://www.w3.org/1999/xhtml">
+                <xhtml:body>
+                    <xhtml:p>The Leo Triplet, or the M66 Group, is a group of interacting spiral galaxies located in the northern constellation Leo. The group consists of the galaxies Messier 65, Messier 66 and NGC 3628, also known as the Hamburger Galaxy. The Leo Triplet lies at an approximate distance of 35 million light years from Earth.</xhtml:p>
+                    <xhtml:p>
+                        <xhtml:img xhtml:src="../Images/Leo-Triplet-1024x839.jpg" xhtml:style="width: 311px;height: 254px;" />
+                    </xhtml:p>
+                </xhtml:body>
+            </xhtml:html>
+        </MicroContentResponse>
+    </MicroContent>
+    <MicroContent id="m101">
+        <Properties>
+            <MetaTagList>
+                <meta name="Promotional" content="Pinwheel,M101" MadCap:metaTagSet="Meta Tag Sets/NewMetaTagSet.flmeta" />
+                <meta name="Knowledge enum" content="Fun facts about the Pinwheel Galaxy AKA M101" MadCap:metaTagSet="Meta Tag Sets/NewMetaTagSet.flmeta" />
+            </MetaTagList>
+        </Properties>
+        <MicroContentPhrase>M101</MicroContentPhrase>
+        <MicroContentPhrase>M101 galaxy</MicroContentPhrase>
+        <MicroContentResponse>
+            <xhtml:html xmlns:xhtml="http://www.w3.org/1999/xhtml">
+                <xhtml:body>
+                    <xhtml:p>Messier 101 (M101), also known as the Pinwheel Galaxy, is a spiral galaxy located in the constellation Ursa Major, the Great Bear. The Pinwheel Galaxy has an apparent magnitude of 7.86 and lies at a distance of 20.9 million light years from Earth. It has the designation NGC 5457 in the New General Catalogue.</xhtml:p>
+                    <xhtml:p>
+                        <xhtml:img xhtml:src="../Images/Messier-101-1024x801.jpg" xhtml:style="width: 226px;height: 176px;" />
+                    </xhtml:p>
+                </xhtml:body>
+            </xhtml:html>
+        </MicroContentResponse>
+    </MicroContent>
+    <MicroContent id="m101-galaxy">
+        <Properties>
+            <MetaTagList>
+                <meta name="Promotional" content="Pinwheel,M101" MadCap:metaTagSet="Meta Tag Sets/NewMetaTagSet.flmeta" />
+                <meta name="Knowledge enum" content="Fun facts about the Pinwheel Galaxy AKA M101" MadCap:metaTagSet="Meta Tag Sets/NewMetaTagSet.flmeta" />
+            </MetaTagList>
+        </Properties>
+        <MicroContentPhrase>Pinwheel</MicroContentPhrase>
+        <MicroContentResponse href="../../Topics with MC/M101.htm#microcontent1" />
+    </MicroContent>
+    <MicroContent id="m31-galaxy">
+        <Properties>
+            <MetaTagList>
+                <meta name="Promotional" content="Andromeda,M31" MadCap:metaTagSet="Meta Tag Sets/NewMetaTagSet.flmeta" />
+                <meta name="Knowledge enum" content="Fun facts about Andromeda" MadCap:metaTagSet="Meta Tag Sets/NewMetaTagSet.flmeta" />
+            </MetaTagList>
+        </Properties>
+        <MicroContentPhrase>M31 galaxy</MicroContentPhrase>
+        <MicroContentResponse href="../../Topics with MC/Andromeda.htm#microcontent1" />
+    </MicroContent>
+    <MicroContent id="goddess-andromeda">
+        <Properties>
+            <MetaTagList>
+                <meta name="Promotional" content="" MadCap:metaTagSet="Meta Tag Sets/NewMetaTagSet.flmeta" />
+                <meta name="Godess Andromeda" content="Godess Andromeda" MadCap:metaTagSet="Meta Tag Sets/NewMetaTagSet.flmeta" />
+            </MetaTagList>
+        </Properties>
+        <MicroContentPhrase>Goddess Andromeda</MicroContentPhrase>
+        <MicroContentResponse href="../../Topics with MC/Godess Andromeda.htm#microcontent1" />
+    </MicroContent>
+</MicroContentSet>

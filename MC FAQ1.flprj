@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultProject Version="1" MasterStylesheet="/Content/Resources/Stylesheets/Styles.css" MasterPageLayout="/Content/Resources/PageLayouts/Default.flpgl" MasterStylesheetOverride="True" xml:lang="en-us" Comment="This template contains a minimum number of content and project files, including a single topic. It is the best choice for those who want to begin with a skeleton project.">
+    <MetaTagList>
+        <meta name="Knowledge enum" content="Fun facts about Andromeda,Fun facts about the Pinwheel Galaxy AKA M101,Fun facts about Template pages" metaTagSet="Meta Tag Sets/NewMetaTagSets.flmeta" />
+    </MetaTagList>
+</CatapultProject>

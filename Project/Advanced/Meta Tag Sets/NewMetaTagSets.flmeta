@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultMetaTagSet Comment="Meta Tag Set" name="FAQ Meta tag set" desc="For use with FAQ tropics" conditions="">
+    <meta name="General FAQ" content="Flame,Godess Andromeda,Horsehead,Leo Triplet,Elephants trunk nebula" type="Enum" enum="Flame,Godess Andromeda,Horsehead,Leo Triplet,Elephants trunk nebula" />
+    <meta name="Godess Andromeda" content="Godess Andromeda" type="Text" />
+    <meta name="Knowledge enum" content="Fun facts about Andromeda,Fun facts about the Pinwheel Galaxy AKA M101,Fun facts about Template pages" type="Enum" enum="Fun facts about Andromeda,Fun facts about the Pinwheel Galaxy AKA M101,Fun facts about Template pages" />
+    <meta name="Promotional" content="Andromeda,M31,Pinwheel,M101,Template" type="Enum" enum="Andromeda,M31,Pinwheel,M101,Template" />
+    <meta name="unused" content="" type="Text" desc="Isn't used anywhere" />
+</CatapultMetaTagSet>

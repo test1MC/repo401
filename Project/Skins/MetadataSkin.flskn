@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultSkin
+  Version="5"
+  SkinType="Component"
+  Comment="Micro Content skin"
+  ComponentType="MicroContent"
+  EnableResponsiveOutput="True"
+  EnablePrintableOutput="True">
+  <Stylesheet>
+    <Styles>
+      <Style
+        Name="Phrase">
+        <Properties>
+          <Property
+            Name="Color">#0000ff</Property>
+          <Property
+            Name="FontFamily">Brush Script MT</Property>
+        </Properties>
+      </Style>
+      <Style
+        Name="Drop-Down Expand">
+        <Properties>
+          <Property
+            Name="BackgroundColor">#ffa500</Property>
+        </Properties>
+      </Style>
+      <Style
+        Name="Drop-Down Collapse">
+        <Properties>
+          <Property
+            Name="BackgroundColor">#00fa9a</Property>
+        </Properties>
+      </Style>
+    </Styles>
+  </Stylesheet>
+  <MicroContentOptions
+    ViewMode="PlainText" />
+  <Strings />
+</CatapultSkin>

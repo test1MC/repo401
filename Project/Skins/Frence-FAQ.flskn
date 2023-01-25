@@ -1,0 +1,4 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultSkin Version="2" SkinType="Component" Comment="Habillage du composant du micro contenu avec mode d'affichage déroulant. Cet habillage est utilisé pour les proxys de FAQ, mais il peut également être utilisé pour les proxys de connaissances et de promotion." ComponentType="MicroContent" EnableResponsiveOutput="True">
+    <MicroContentOptions ViewMode="DropDown" />
+</CatapultSkin>

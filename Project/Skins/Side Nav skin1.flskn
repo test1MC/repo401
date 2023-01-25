@@ -1,0 +1,77 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultSkin
+  Version="6"
+  SkinType="WebHelp2"
+  ComponentType="MasterPage"
+  TemplateName="Fluid"
+  Comment="HTML5 Side Navigation skin"
+  EnableResponsiveOutput="True"
+  AutoSyncTOC="true">
+  <WebHelpOptions
+    NavigationPanePosition="Right"
+    OffCanvasMenuStyle="Accordion"
+    MainMenuPosition="Left"
+    EnableSticky="All" />
+  <Stylesheet>
+    <Styles>
+      <Medium
+        Name="Mobile">
+        <Style
+          Name="Knowledge Panel">
+          <Properties>
+            <Property
+              Name="KnowledgePanelPosition">right</Property>
+          </Properties>
+        </Style>
+        <Style
+          Name="Knowledge Panel Result">
+          <Properties>
+            <Property
+              Name="BackgroundColor">#000000</Property>
+            <Property
+              Name="Color">#ffa500</Property>
+          </Properties>
+        </Style>
+      </Medium>
+      <Style
+        Name="Knowledge Panel Phrase">
+        <Properties>
+          <Property
+            Name="Display">block</Property>
+        </Properties>
+      </Style>
+      <Style
+        Name="Search Micro Content Response Button">
+        <Properties>
+          <Property
+            Name="BackgroundRepeat">no-repeat</Property>
+        </Properties>
+      </Style>
+      <Style
+        Name="Knowledge Panel">
+        <Properties>
+          <Property
+            Name="KnowledgePanelPosition">left</Property>
+          <Property
+            Name="BackgroundColor">#6495ed</Property>
+        </Properties>
+      </Style>
+      <Style
+        Name="Featured Snippets">
+        <Properties>
+          <Property
+            Name="BackgroundColor">#ffd700</Property>
+        </Properties>
+      </Style>
+    </Styles>
+    <Stylesheet></Stylesheet>
+  </Stylesheet>
+  <Strings />
+  <ProxyOptions
+    KnowledgeProxyViewMode="DropDown"
+    FAQProxyViewMode="DropDown"
+    PromotionProxyViewMode="DropDown" />
+  <MicroContentOptions
+    KnowledgePanelViewMode="DropDown"
+    FeaturedSnippetsViewMode="DropDown" />
+</CatapultSkin>
